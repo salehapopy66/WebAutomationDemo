@@ -1,1 +1,1 @@
-This is my first automation project.
+This is my first web automation project.
